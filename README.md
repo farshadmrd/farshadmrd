@@ -1,6 +1,6 @@
 # Hello world! 
 
-[gif](https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/refs/heads/main/Images/about_me.gif)
+![gif](https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/refs/heads/main/Images/about_me.gif)
 
 ---
 
