@@ -1,12 +1,6 @@
 # Hello world! 
 
-![Python Logo](https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg) ![Cat Coding GIF](https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif) ![Cool Avatar](https://upload.wikimedia.org/wikipedia/commons/8/89/Avatar_example.png)
-
-I'm a **Back-end Developer** with a focus on building awesome RESTful APIs using **Django**. I thrive on writing clean, efficient code and keeping up with the latest industry standards.
-
-Currently diving into the world of **cybersecurity** through my Master's in Computer Engineering. Excited about blending these skills to create top-notch, secure solutions.
-
-I am on a continuous learning path and eager to exchange knowledge. Let's connect and chat about coding, cybersecurity, or anything tech-related!
+As a student at the University of Genoa, I'm pursuing a master's degree with a focus on software platforms and cybersecurity. This indicates a strong foundation in both the technical aspects of software development as well as the critical area of protecting digital systems from potential threats. During my education, I had the opportunity to intern at Ericsson, where I gained hands-on experience implementing a real-world CI/CD project. This experience allowed me to apply my academic knowledge to practical scenarios, enhancing my skills in automation, pipeline development, and modern software development practices. Prior to this, I gained practical experience as a front-end developer at Fanap Company, where I contributed to an Enterprise Resource Planning (ERP) project. This role likely involved working on the user interface and user experience aspects, ensuring that the ERP software was accessible and efficient for its users. My academic and professional experiences combine to give me a comprehensive skill set in both creating and securing software applications. Enterprise Resource Planning (ERP) project. This role likely involved working on the user interface and user experience aspects, ensuring that the ERP software was accessible and efficient for its users. My academic and professional experiences combine to give me a comprehensive skill set in both creating and securing software applications.
 
 ---
 
