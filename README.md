@@ -39,4 +39,5 @@
 
 ---
 
-**Thank you for visiting! 😊 Let's create something amazing together.**
+
+Thank you for visiting! 🌍 Let's work together to build a better world.
