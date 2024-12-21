@@ -1,6 +1,6 @@
 # Hello world! 
 
-As a student at the University of Genoa, I'm pursuing a master's degree with a focus on software platforms and cybersecurity. This indicates a strong foundation in both the technical aspects of software development as well as the critical area of protecting digital systems from potential threats. During my education, I had the opportunity to intern at Ericsson, where I gained hands-on experience implementing a real-world CI/CD project. This experience allowed me to apply my academic knowledge to practical scenarios, enhancing my skills in automation, pipeline development, and modern software development practices. Prior to this, I gained practical experience as a front-end developer at Fanap Company, where I contributed to an Enterprise Resource Planning (ERP) project. This role likely involved working on the user interface and user experience aspects, ensuring that the ERP software was accessible and efficient for its users. My academic and professional experiences combine to give me a comprehensive skill set in both creating and securing software applications. Enterprise Resource Planning (ERP) project. This role likely involved working on the user interface and user experience aspects, ensuring that the ERP software was accessible and efficient for its users. My academic and professional experiences combine to give me a comprehensive skill set in both creating and securing software applications.
+[gif](https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/refs/heads/main/Images/about_me.gif)
 
 ---
 
