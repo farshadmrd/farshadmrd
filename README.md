@@ -24,13 +24,17 @@ Hi there! I'm a passionate **Master’s Student** at the **University of Genoa**
 ### 🔧 My Skill Set
 - **Software Development**: Building scalable and efficient platforms  
 - **Cybersecurity**: Protecting digital systems against threats  
-- **Front-End Development**: Creating seamless and engaging user interfaces  
+- **Front-End Development**: Creating seamless and engaging user interfaces (React.js, Angular)
+- **Back-End Development**: Python (Django), C# (.NET Core)
 - **CI/CD Pipelines**: Streamlining deployment and integration processes  
 
 ---
 
-Together, my academic and professional experiences have provided me with a **comprehensive skill set** to design, develop, and secure innovative software applications. I’m constantly looking for opportunities to learn, grow, and contribute to exciting projects!
+By combining front-end expertise with back-end development (Django, .NET) and CI/CD know-how, I’m able to:
 
+1- Design interfaces that meet both usability and security requirements.</br>
+2- Implement and maintain the underlying services and databases.</br>
+3- Ensure that the entire delivery pipeline is automated, reliable, and secure.
 
 ---
 
