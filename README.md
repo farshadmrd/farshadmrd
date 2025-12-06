@@ -29,6 +29,8 @@ Hi there! I'm a passionate **Master’s Student** at the **University of Genoa**
 - **CI/CD Pipelines**: Streamlining deployment and integration processes  
 
 ---
+<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=2497340" style='border:none;'></iframe>
+
 
 By combining front-end expertise with back-end development (Django, .NET) and CI/CD know-how, I’m able to:
 
