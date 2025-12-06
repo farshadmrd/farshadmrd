@@ -29,6 +29,10 @@ Hi there! I'm a passionate **Master’s Student** at the **University of Genoa**
 - **CI/CD Pipelines**: Streamlining deployment and integration processes  
 
 ---
+<p align="center">
+  <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"></a>
+  <a href="#"><img alt="Django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green"></a>
+</p>
 <img src="https://tryhackme-badges.s3.amazonaws.com/Frsh4D.png" alt="Your Image Badge" />
 
 
