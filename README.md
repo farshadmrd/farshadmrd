@@ -1,5 +1,5 @@
 <div align="center">
-<a href="https://www.linkedin.com/in/farshadmoradi/" target="_blank"><img width="100%" src="./src/img/banner" alt="Professional Profile Banner"></a>
+<a href="https://www.linkedin.com/in/farshadmoradi/" target="_blank"><img width="100%" src="./src/img/banner.jpg" alt="Professional Profile Banner"></a>
 </div>
 <div>
   <p>
