@@ -2,17 +2,13 @@
   <a href="https://www.linkedin.com/in/farshadmoradi/" target="_blank"><img width="100%" src="./src/img/banner.jpg" alt="Professional Profile Banner"></a>
 </div>
 
-<div>
-  <p>
-    I’m a master’s student in Computer Engineering at the University of Genova (UNIGE), diving into Software Platforms and Cybersecurity. I like exploring system weaknesses (ethically :) ), fixing them, and building software that’s both smart and secure. Always curious, always learning, and      enjoying the tech journey one line of code at a time.
-  </p>
-</div>
 
-<div>
-  <p>
-    I’m currently working on my master’s thesis focused on DevSecOps, combining my internship experience in Ericsson company in building CI/CD pipelines with my background in cybersecurity. My work targets the healthcare industry, with an emphasis on secure data sharing, data anonymization, and defense‑in‑depth architectures following Zero Trust principles.
-  </p>
-</div>
+I’m a master’s student in **Computer Engineering** at the University of Genova (UNIGE), diving into **Software Platforms and Cybersecurity**. I like exploring system weaknesses (ethically :) ), fixing them, and building software that’s both smart and secure. Always curious, always learning, and enjoying the tech journey one line of code at a time.
+
+
+
+I’m currently working on my master’s thesis focused on DevSecOps, combining my **internship experience in Ericsson company** in building **CI/CD pipelines** with my background in **cybersecurity**. My work targets the **healthcare industry**, with an emphasis on **secure data sharing**, **data anonymization**, and **defense‑in‑depth architectures** following **Zero Trust principles**.
+
 
 <div align="center">
 
