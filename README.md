@@ -1,7 +1,7 @@
-<div align="center">
+<img width="527" height="348" alt="image" src="https://github.com/user-attachments/assets/d47cb22e-7bd6-4935-b569-e70c1bf760cd" /><div align="center">
   <h1> Hello world! </h1>
 </div>
-
+I’m a master’s student in Computer Engineering at the University of Geneva (UNIGE), diving into Software Platforms and Cybersecurity. I like exploring system weaknesses (ethically :) ), fixing them, and building software that’s both smart and secure. Always curious, always learning, and enjoying the tech journey one line of code at a time.
 
 
 ---
@@ -22,7 +22,14 @@
   
   <div>
     <img src="https://tryhackme-badges.s3.amazonaws.com/Frsh4D.png" alt="Your Image Badge" />
+  
   </div>
+
+  <div>
+      <img src="https://drive.google.com/file/d/11SyFi5h71R4c59J-qGdOuUZ3Rpnkb3rw/view?usp=drive_link" alt="Your Image Badge" />
+  </div>
+  
+    
 </div>
 
 
