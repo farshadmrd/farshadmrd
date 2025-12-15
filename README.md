@@ -1,5 +1,5 @@
 <div align="center">
-    <h1> Hello world! </h1>
+<a href="https://www.linkedin.com/in/dimetrix" target="_blank"><img width="100%" src="./images/hero_0.5.png" alt="Professional Profile Banner"></a>
 </div>
 <div>
   <p>
