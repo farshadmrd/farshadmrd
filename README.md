@@ -80,7 +80,7 @@
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)
 ![Bash](https://img.shields.io/badge/bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
-
+ <!--
 ### Security 
   <div>
       <img src="https://tryhackme-badges.s3.amazonaws.com/Frsh4D.png" alt="Image Badge" />
@@ -90,9 +90,9 @@
     <img width="250" height="200" alt="Image Badge" src="https://github.com/user-attachments/assets/a8298c37-ef1c-4ee1-965a-c169e705b3ec" />
     <img width="250" height="200" alt="Image Badge" src="https://github.com/user-attachments/assets/b1bbeef2-7f50-49ac-a3a3-9ac7785b261f" />
     <img width="250" height="200" alt="Image Badge" src="https://github.com/user-attachments/assets/21d313ef-4838-4e4d-893d-a8c89e9f0a85" />
-  <!-- <img width="250" height="200" alt="Image Badge" src="https://github.com/user-attachments/assets/d147eceb-e5cd-47f3-abcb-e7d77a028195" /> -->
+  <img width="250" height="200" alt="Image Badge" src="https://github.com/user-attachments/assets/d147eceb-e5cd-47f3-abcb-e7d77a028195" /> 
   </div>
-
+-->
 ## 📬Contact & Social
 
 <p align="center">
